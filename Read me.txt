@@ -1,0 +1,1 @@
+connect django file with my sql database and create a rest api
